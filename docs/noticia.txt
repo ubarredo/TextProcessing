@@ -1,0 +1,42 @@
+El ciberataque sufrido este viernes por Telefónica y otras compañías españolas ha sido "indiscriminado", ha afectado a otros países como el Reino Unido, Taiwán, Ucrania, Rusia o Turquía, y es "especialmente virulento" ya que combina un "malware" con un sistema de propagación que utiliza una vulnerabilidad detectada en Microsoft.
+
+Así lo asegura a EFEfuturo el director ejecutivo de S21sec, Agustín Muñoz-Grandes, una empresa española especializada en ciberseguridad, según los datos preliminares del ciberataque sufrido este viernes por la compañía española y que podría haber afectado a otras entidades.
+
+El "ransomware", en este caso una variación del denominado Wannacry, es un tipo de virus que se instala en un ordenador, "encripta y secuestra" todos sus ficheros, para, a continuación, pedir un rescate en bitcoin, una moneda virtual, que no se puede rastrear, explica.
+
+Este tipo de virus suele llega habitualmente a través de correos electrónicos de "origen desconocido" que adjuntan un documento y que el usuario abre por error o desconocimiento.
+
+Según el socio director de la empresa de ciberseguridad S2Grupo, Miguel Juan, la singularidad del caso de Telefónica es que a priori parece que se ha producido una expansión del virus sin intervención aparente de usuarios.
+
+"La seguridad total no existe"
+Las medidas adoptadas por la compañía ha sido, a su juicio, las correctas -apagando los ordenadores o desconectándolos- de la red, hasta que se produzcan nuevas instrucciones del Centro Criptológico Nacional o el Incibe.
+
+Otra de las novedades de este ciberataque, es que ha estado combinado con un "gusano" que ha infectado a otros ordenadores de la red de la compañía a través de un agujero detectado hace unos meses en Windows, señala a EFEfuturo el experto de la empresa de ciberseguridad Trendmicro, David Sancho.
+
+"La seguridad total no existe", advierte este experto en antimalware quien recuerda que hace décadas las actualizaciones de antivirus se hacían cada ciertos meses y manualmente, mientras hoy se efectúan cada hora y aún así "son insuficientes", advierte.
+
+Según el socio director de la empresa de ciberseguridad S2Grupo, Jose Rosell, para evitar este tipo de ataques se debe tener el nivel de parcheo adecuado, el bloqueo de las comunicaciones locales, efectuar copias de seguridad extraordinarias y apagar los equipos no esenciales, de cuyo uso se pueda prescindir.
+
+Todos los expertos consultados creen que 2017 registrará un incremento de este tipo de ataques que serán cada vez "más sofisticados" y que afectarán tanto a empresas como a particulares, y, probablemente, llegará a los 'smartphones' (teléfonos inteligentes), que hasta ahora no se ven afectados por este tipo de secuestros.
+
+El ataque sufrido por Telefónica "es significativo, pero no sorprende, no es ni será el último caso" señala el experto en ciberseguridad y colaborador de EFEfuturo Deepak Daswani, quien ha recordado otros casos relevantes como el ataque a Yahoo en 2015 con robo masivo de correos o a Sony en 2014.
+
+"Todos somos vulnerable, la realidad supera a la ficción", enfatizó Daswani, quien coincide con el resto de expertos en que si una empresa que sufre este tipo de ataques y no tiene copias de seguridad bien gestionadas, suelen acabar aceptando la extorsión.
+
+La mayoría de empresas del IBEX35 han tenido en algún momento un ataque similar sin llegar a la magnitud del de Telefónica, ha sostenido el experto en seguridad y director del programa Mundo Hacker de TVE, Antonio Ramos.
+
+"Aunque lo habitual es no pagar, se ha detectado que la gente está comprando bitcoins para el pago de rescates", advierte sobre esta moneda virtual e ilegal, que es prácticamente imposible de rastrear por la policía.
+
+El director del Equipo de Seguridad para la Coordinación de Emergencias en Redes Telemáticas de la Universidad Politécnica de Cataluña, Manuel Medina, ha advertido en declaraciones a Efe, la facilidad para generar este tipo de ataques, ya que en el "mercado negro" se pueden adquirir "kit" para fabricarlos a precios relativamente bajos y muy rentables cuando se compara con el daño que son capaces de hacer.
+
+No afecta a energía, transporte o finanzas
+El Ministerio del Interior ha constatado que "hasta el momento" la oleada de ransomware no ha afectado a la provisión de los servicios esenciales de energía, transporte, servicios financieros o servicios tecnológicos considerados estratégicos por el Gobierno.
+
+En un comunicado, Interior detalla que, pese a lo anterior, el protocolo de comunicación y de gestión de incidentes con los más de cien operadores que ya forman parte del Sistema de Protección de Infraestructuras Críticas "se mantiene activo y en alerta, a la espera de nuevos datos".
+
+El Centro Nacional para la Protección de las Infraestructuras Críticas (CNPIC), organismo dependiente de la Secretaría de Estado de Seguridad del Ministerio del Interior, ha confirmado que se han producido "distintas infecciones masivas, tanto de equipos personales como de organizaciones, de un malware del tipo ransomware que cifra y bloquea el acceso a los ficheros de los ordenadores afectados, solicitando un rescate para poder recuperar la información".
+
+Estas infecciones podrían propagarse a otros ordenadores de la red, con el riesgo que ello conlleva. El Centro de Respuesta a Incidentes Cibernéticos de Seguridad e Industria, coordinado por el propio CNPIC y por el Instituto Nacional de Ciberseguridad del Ministerio de Energía, Turismo y Agenda Digital, ha asegurado que, "hasta el momento, la provisión de los servicios esenciales no se ha visto afectada".
+
+Persecución de un posible delito
+Toda esta información se está viendo complementada con las aportaciones del CERT del Centro Criptológico Nacional, en lo que respecta a las posibles afecciones al sector público. Los hechos susceptibles de delito que puedan ser conocidos a partir de la información manejada por el CNPIC se trasladarán a las Fuerzas y Cuerpos de Seguridad del Estado a efectos de la oportuna investigación y persecución del delito, según Interior.
