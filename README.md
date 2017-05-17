@@ -91,8 +91,8 @@ Most Common (10):
 ```
 <p align="center">
   <img src="https://github.com/ubarredo/TextProcessing/blob/master/plots/s_tokens.png" width="600">
-  <img src="https://github.com/ubarredo/TextProcessing/blob/master/plots/b_tokens.png" width="600">
-  <img src="https://github.com/ubarredo/TextProcessing/blob/master/plots/c_tokens.png" width="400">
+  <img src="https://github.com/ubarredo/TextProcessing/blob/master/plots/b_tokens.png" width="700">
+  <img src="https://github.com/ubarredo/TextProcessing/blob/master/plots/c_tokens.png" width="500">
 </p>
 
 
