@@ -91,5 +91,5 @@ Most Common (10):
 ```
 
 <img src="https://github.com/ubarredo/TextProcessing/blob/master/plots/s_tokens.png" width="500">
-![alt text](https://github.com/ubarredo/TextProcessing/blob/master/plots/b_tokens.png =250x)
-![alt text](https://github.com/ubarredo/TextProcessing/blob/master/plots/c_tokens.png =250x)
+<img src="https://github.com/ubarredo/TextProcessing/blob/master/plots/b_tokens.png" width="500">
+<img src="https://github.com/ubarredo/TextProcessing/blob/master/plots/c_tokens.png" width="500">
