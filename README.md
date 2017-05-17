@@ -90,6 +90,6 @@ Most Common (10):
 [('América del Sur', 46), ('América del Norte', 33), ('Nueva Zelanda', 26), ('Estados Unidos', 24), ('Archipiélago Malayo', 15), ('Mundo Antiguo', 15), ('Gran Bretaña', 14), ('Historia Natural', 14), ('Fritz Müller', 12), ('Míster Mivart', 9)]
 ```
 
-<img src="https://github.com/ubarredo/TextProcessing/blob/master/plots/s_tokens.png" width="48">
+<img src="https://github.com/ubarredo/TextProcessing/blob/master/plots/s_tokens.png" width="500">
 ![alt text](https://github.com/ubarredo/TextProcessing/blob/master/plots/b_tokens.png =250x)
 ![alt text](https://github.com/ubarredo/TextProcessing/blob/master/plots/c_tokens.png =250x)
